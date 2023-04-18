@@ -5,3 +5,6 @@ This repository will contain all the applications for deep learning in computer 
 
 Additionally, it will contain scripts for training neural networks for different applications using libraries like MM-Lab or hugging face.
 
+Also, what is computer vision capable of right now will be discussed? 
+
+We will discuss all the methods that are available and what kind of models we can train according to the newest research.
