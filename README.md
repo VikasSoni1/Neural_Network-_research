@@ -8,3 +8,5 @@ Additionally, it will contain scripts for training neural networks for different
 Also, what is computer vision capable of right now will be discussed? 
 
 We will discuss all the methods that are available and what kind of models we can train according to the newest research.
+
+ajhfscjahsevfjkhsduyg
