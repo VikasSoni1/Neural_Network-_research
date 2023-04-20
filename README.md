@@ -9,4 +9,4 @@ Also, what is computer vision capable of right now will be discussed?
 
 We will discuss all the methods that are available and what kind of models we can train according to the newest research.
 
-ajhfscjahsevfjkhsduyg
+To do : Add a script for training classification on custom dataset.
