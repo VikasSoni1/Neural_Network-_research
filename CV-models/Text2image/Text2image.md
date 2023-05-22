@@ -7,4 +7,4 @@ Popular Architectures:-
 2. CLIP
 
 Libraries:-
-1. Huggingface transformers
+1. Huggingface diffusers
